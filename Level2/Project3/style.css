@@ -1,0 +1,11 @@
+#box{
+    width: 800px;
+    font-size: 40px;
+    border:5px solid red;
+    background-image: url(abc.jpg);
+    background-repeat: no-repeat;
+    background-position: top ;
+    background-size: cover;
+    background-attachment: fixed;
+
+}

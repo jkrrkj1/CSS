@@ -1,0 +1,9 @@
+#head{
+    color:yellow;
+    width: 1000%;
+    height: 1000px;
+    border: 2px solid black;
+    background-image: url(abc.jpg);
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+}
